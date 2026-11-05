@@ -1,7 +1,6 @@
 # בסיסי נתונים מאפס עד 10 🗄️
 
-**🔗 לאתר: https://maiissh.github.io/db-course/**
-
+🔗 לאתר: https://maiissh.github.io/db-course/
 אתר לימוד אינטראקטיבי לקורס **מערכות בסיסי נתונים**: 11 שלבים, מהמבוא ועד עצי B+, עם הסברים, ציורים, דוגמאות ומעבדות.
 
 [![תצוגה מקדימה של האתר](preview.png)](https://USERNAME.github.io/db-course/)
